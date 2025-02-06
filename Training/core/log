@@ -1,0 +1,90 @@
+2024/10/29 22:07:47 vanilla.py[line:64] INFO: Inference costs 14.874206304550171 seconds.
+2024/10/29 22:07:48 vanilla.py[line:104] INFO: The accuracy on the test dataset is 8.33957%
+2024/10/29 22:08:16 vanilla.py[line:64] INFO: Inference costs 13.334365844726562 seconds.
+2024/10/29 22:08:16 vanilla.py[line:104] INFO: The accuracy on the test dataset is 6.20687%
+2024/10/29 22:08:44 vanilla.py[line:64] INFO: Inference costs 13.573515176773071 seconds.
+2024/10/29 22:08:44 vanilla.py[line:104] INFO: The accuracy on the test dataset is 8.75322%
+2024/10/29 22:09:58 vanilla.py[line:64] INFO: Inference costs 14.114001989364624 seconds.
+2024/10/29 22:09:58 vanilla.py[line:104] INFO: The accuracy on the test dataset is 6.78266%
+2024/10/29 22:10:26 vanilla.py[line:64] INFO: Inference costs 13.772027730941772 seconds.
+2024/10/29 22:10:26 vanilla.py[line:104] INFO: The accuracy on the test dataset is 7.15889%
+2024/10/29 22:10:56 vanilla.py[line:64] INFO: Inference costs 13.5554518699646 seconds.
+2024/10/29 22:10:56 vanilla.py[line:104] INFO: The accuracy on the test dataset is 7.69103%
+2024/10/29 22:12:41 vanilla.py[line:64] INFO: Inference costs 14.000514268875122 seconds.
+2024/10/29 22:12:41 vanilla.py[line:104] INFO: The accuracy on the test dataset is 7.02794%
+2024/10/29 22:13:14 vanilla.py[line:64] INFO: Inference costs 1.2692718505859375 seconds.
+2024/10/29 22:13:14 vanilla.py[line:104] INFO: The accuracy on the test dataset is 34.52032%
+2024/10/31 22:27:17 vanilla.py[line:64] INFO: Inference costs 1.2327303886413574 seconds.
+2024/10/31 22:27:17 vanilla.py[line:104] INFO: The accuracy on the test dataset is 73.69083%
+2024/10/31 22:27:18 vanilla.py[line:64] INFO: Inference costs 0.6213669776916504 seconds.
+2024/10/31 22:27:18 vanilla.py[line:104] INFO: The accuracy on the test dataset is 85.29535%
+2024/10/31 22:27:19 vanilla.py[line:64] INFO: Inference costs 0.5892837047576904 seconds.
+2024/10/31 22:27:19 vanilla.py[line:104] INFO: The accuracy on the test dataset is 85.75618%
+2024/10/31 22:27:20 vanilla.py[line:64] INFO: Inference costs 0.7198350429534912 seconds.
+2024/10/31 22:27:20 vanilla.py[line:104] INFO: The accuracy on the test dataset is 90.02933%
+2024/10/31 22:27:21 vanilla.py[line:64] INFO: Inference costs 0.6854007244110107 seconds.
+2024/10/31 22:27:21 vanilla.py[line:104] INFO: The accuracy on the test dataset is 90.53205%
+2024/10/31 22:27:22 vanilla.py[line:64] INFO: Inference costs 0.6119341850280762 seconds.
+2024/10/31 22:27:22 vanilla.py[line:104] INFO: The accuracy on the test dataset is 91.36992%
+2024/10/31 22:33:51 model_lib.py[line:34] INFO: {'hidden_units': [200, 200], 'dropout_rate': 0.4, 'activation': 'relu', 'output_dim': 1}
+2024/10/31 22:33:51 vanilla.py[line:167] INFO: hyper-parameters:
+2024/10/31 22:33:51 vanilla.py[line:168] INFO: {'random_seed': 23456, 'n_epochs': 30, 'batch_size': 8, 'learning_rate': 0.0001, 'clipvalue': 100.0, 'interval': 2}
+2024/10/31 22:33:51 vanilla.py[line:169] INFO: The number of trainable variables: 6
+2024/10/31 22:33:51 vanilla.py[line:170] INFO: ...training start!
+2024/10/31 22:35:36 vanilla.py[line:64] INFO: Inference costs 3.3493833541870117 seconds.
+2024/10/31 22:35:36 vanilla.py[line:104] INFO: The accuracy on the test dataset is 59.82183%
+2024/10/31 22:35:36 vanilla.py[line:131] INFO: Informedness is 18.83729%, Markedness is 53.87327%, F1 score is 32.10388%
+2024/10/31 22:35:39 vanilla.py[line:64] INFO: Inference costs 2.6082160472869873 seconds.
+2024/10/31 22:35:39 vanilla.py[line:104] INFO: The accuracy on the test dataset is 69.34298%
+2024/10/31 22:35:39 vanilla.py[line:131] INFO: Informedness is 38.11212%, Markedness is 57.06780%, F1 score is 56.62518%
+2024/10/31 22:35:42 vanilla.py[line:64] INFO: Inference costs 2.4990394115448 seconds.
+2024/10/31 22:35:42 vanilla.py[line:104] INFO: The accuracy on the test dataset is 69.75501%
+2024/10/31 22:35:42 vanilla.py[line:131] INFO: Informedness is 38.96505%, Markedness is 55.65345%, F1 score is 58.06053%
+2024/10/31 22:35:45 vanilla.py[line:64] INFO: Inference costs 2.6519758701324463 seconds.
+2024/10/31 22:35:45 vanilla.py[line:104] INFO: The accuracy on the test dataset is 72.67261%
+2024/10/31 22:35:45 vanilla.py[line:131] INFO: Informedness is 44.88343%, Markedness is 57.27736%, F1 score is 64.15425%
+2024/10/31 22:35:48 vanilla.py[line:64] INFO: Inference costs 2.533705711364746 seconds.
+2024/10/31 22:35:48 vanilla.py[line:104] INFO: The accuracy on the test dataset is 72.30512%
+2024/10/31 22:35:48 vanilla.py[line:131] INFO: Informedness is 44.14236%, Markedness is 56.73948%, F1 score is 63.52838%
+2024/10/31 22:35:51 vanilla.py[line:64] INFO: Inference costs 2.3335652351379395 seconds.
+2024/10/31 22:35:51 vanilla.py[line:104] INFO: The accuracy on the test dataset is 73.45212%
+2024/10/31 22:35:51 vanilla.py[line:131] INFO: Informedness is 46.51449%, Markedness is 55.03304%, F1 score is 66.74107%
+2024/10/31 22:36:58 vanilla.py[line:64] INFO: Inference costs 3.2888424396514893 seconds.
+2024/10/31 22:36:58 vanilla.py[line:104] INFO: The accuracy on the test dataset is 59.82183%
+2024/10/31 22:36:58 vanilla.py[line:131] INFO: Informedness is 18.83729%, Markedness is 53.87327%, F1 score is 32.10388%
+2024/10/31 22:36:58 vanilla.py[line:362] ERROR: File not found: 
+2024/10/31 22:38:09 vanilla.py[line:64] INFO: Inference costs 3.2733802795410156 seconds.
+2024/10/31 22:38:09 vanilla.py[line:104] INFO: The accuracy on the test dataset is 59.82183%
+2024/10/31 22:38:09 vanilla.py[line:131] INFO: Informedness is 18.83729%, Markedness is 53.87327%, F1 score is 32.10388%
+2024/10/31 22:38:09 vanilla.py[line:362] ERROR: File not found: 
+2024/10/31 22:39:18 vanilla.py[line:64] INFO: Inference costs 3.360895872116089 seconds.
+2024/10/31 22:39:18 vanilla.py[line:104] INFO: The accuracy on the test dataset is 59.82183%
+2024/10/31 22:39:18 vanilla.py[line:131] INFO: Informedness is 18.83729%, Markedness is 53.87327%, F1 score is 32.10388%
+2024/10/31 22:39:18 vanilla.py[line:362] ERROR: File not found: 
+2024/10/31 22:40:08 vanilla.py[line:64] INFO: Inference costs 3.215818166732788 seconds.
+2024/10/31 22:40:08 vanilla.py[line:104] INFO: The accuracy on the test dataset is 59.82183%
+2024/10/31 22:40:08 vanilla.py[line:131] INFO: Informedness is 18.83729%, Markedness is 53.87327%, F1 score is 32.10388%
+2024/10/31 22:40:11 vanilla.py[line:64] INFO: Inference costs 2.633479356765747 seconds.
+2024/10/31 22:40:11 vanilla.py[line:104] INFO: The accuracy on the test dataset is 64.29844%
+2024/10/31 22:40:11 vanilla.py[line:131] INFO: Informedness is 27.90125%, Markedness is 54.23962%, F1 score is 44.78126%
+2024/10/31 22:40:13 vanilla.py[line:64] INFO: Inference costs 2.4321212768554688 seconds.
+2024/10/31 22:40:13 vanilla.py[line:104] INFO: The accuracy on the test dataset is 64.97773%
+2024/10/31 22:40:13 vanilla.py[line:131] INFO: Informedness is 29.27581%, Markedness is 54.59880%, F1 score is 46.48630%
+2024/10/31 22:40:16 vanilla.py[line:64] INFO: Inference costs 2.5117027759552 seconds.
+2024/10/31 22:40:16 vanilla.py[line:104] INFO: The accuracy on the test dataset is 64.77728%
+2024/10/31 22:40:16 vanilla.py[line:131] INFO: Informedness is 28.87175%, Markedness is 54.27619%, F1 score is 46.05151%
+2024/10/31 22:40:19 vanilla.py[line:64] INFO: Inference costs 2.6322431564331055 seconds.
+2024/10/31 22:40:19 vanilla.py[line:104] INFO: The accuracy on the test dataset is 60.69042%
+2024/10/31 22:40:19 vanilla.py[line:131] INFO: Informedness is 20.60636%, Markedness is 51.55791%, F1 score is 35.30059%
+2024/10/31 22:40:22 vanilla.py[line:64] INFO: Inference costs 2.6745188236236572 seconds.
+2024/10/31 22:40:22 vanilla.py[line:104] INFO: The accuracy on the test dataset is 65.81292%
+2024/10/31 22:40:22 vanilla.py[line:131] INFO: Informedness is 30.95685%, Markedness is 56.24948%, F1 score is 48.17691%
+2024/10/31 22:41:24 vanilla.py[line:64] INFO: Inference costs 3.7215583324432373 seconds.
+2024/10/31 22:41:24 vanilla.py[line:104] INFO: The accuracy on the test dataset is 58.30735%
+2024/10/31 22:41:24 vanilla.py[line:131] INFO: Informedness is 15.77678%, Markedness is 52.87292%, F1 score is 27.63819%
+2024/10/31 22:41:31 vanilla.py[line:64] INFO: Inference costs 2.869122266769409 seconds.
+2024/10/31 22:41:31 vanilla.py[line:104] INFO: The accuracy on the test dataset is 59.53229%
+2024/10/31 22:41:31 vanilla.py[line:131] INFO: Informedness is 18.25192%, Markedness is 53.75149%, F1 score is 31.25236%
+2024/10/31 22:41:38 vanilla.py[line:64] INFO: Inference costs 2.848635196685791 seconds.
+2024/10/31 22:41:38 vanilla.py[line:104] INFO: The accuracy on the test dataset is 60.34521%
+2024/10/31 22:41:38 vanilla.py[line:131] INFO: Informedness is 19.89510%, Markedness is 54.18883%, F1 score is 33.60060%

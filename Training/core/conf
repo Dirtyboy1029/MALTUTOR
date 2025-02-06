@@ -1,0 +1,59 @@
+[DEFAULT]
+project_root = /MalTutor
+
+
+[metadata]
+naive_data_pool = %(project_root)s/dataset/naive_pool
+model_lib = %(project_root)s/Model
+
+[dataset]
+dataset_name = dataset
+intermediate_directory = %(project_root)s/Training/config
+drebin_malware_dir = /MalTutor/dataset/apk/
+drebin_benware_dir = /MalTutor/dataset/apk/
+drebin_sampling0_malware_dir = /MalTutor/dataset/apk
+drebin_sampling0_benware_dir = /MalTutor/dataset/apk
+drebin_sampling2_malware_dir = /MalTutor/dataset/apk
+drebin_sampling2_benware_dir =/MalTutor/dataset/apk
+drebin_sampling1_malware_dir = /MalTutor/dataset/apk
+drebin_sampling1_benware_dir =/MalTutor/dataset/apk
+drebin_augment0_malware_dir = /MalTutor/dataset/apk
+drebin_augment0_benware_dir =/MalTutor/dataset/apk
+drebin_augment2_malware_dir = /MalTutor/dataset/apk
+drebin_augment2_benware_dir =/MalTutor/dataset/apk
+drebin_augment1_malware_dir = /MalTutor/dataset/apk
+drebin_augment1_benware_dir = /MalTutor/dataset/apk
+malradar_malware_dir =  /MalTutor/dataset/apk
+malradar_benware_dir =  /MalTutor/dataset/apk
+malradar_sampling0_malware_dir =/MalTutor/dataset/apk
+malradar_sampling0_benware_dir = /MalTutor/dataset/apk
+malradar_sampling2_malware_dir = /MalTutor/dataset/apk
+malradar_sampling2_benware_dir = /MalTutor/dataset/apk
+malradar_sampling1_malware_dir =  /MalTutor/dataset/apk
+malradar_sampling1_benware_dir = /MalTutor/dataset/apk
+malradar_augment0_malware_dir =  /MalTutor/dataset/apk
+malradar_augment0_benware_dir = /MalTutor/dataset/apk
+malradar_augment2_malware_dir =  /MalTutor/dataset/apk
+malradar_augment2_benware_dir = /MalTutor/dataset/apk
+malradar_augment1_malware_dir =  /MalTutor/dataset/apk
+malradar_augment1_benware_dir = /MalTutor/dataset/apk
+
+[ood]
+malgenome_ood_malware_dir =  /MalTutor/dataset/apk
+drebin_ood_malware_dir = /MalTutor/dataset/apk
+amd_ood_malware_dir = /MalTutor/dataset/apk
+adware_ood_malware_dir =  /MalTutor/dataset/apk
+smsware_ood_malware_dir =  /MalTutor/dataset/apk
+scareware_ood_malware_dir =  /MalTutor/dataset/apk
+backdoorware_ood_malware_dir = /MalTutor/dataset/apk
+ransomware_ood_malware_dir = /MalTutor/dataset/apk
+cic1719adware_ood_malware_dir = /MalTutor/dataset/apk
+cic1719smsware_ood_malware_dir =  /MalTutor/dataset/apk
+cic1719ransomware_ood_malware_dir =  /MalTutor/dataset/apk
+cic1719scareware_ood_malware_dir =  /MalTutor/dataset/apk
+cic2020adware_ood_malware_dir = /MalTutor/dataset/apk
+cic2020bankware_ood_malware_dir =  /MalTutor/dataset/apk
+cic2020riskware_ood_malware_dir = /MalTutor/dataset/apk
+cic2020smsware_ood_malware_dir = /MalTutor/dataset/apk
+cic2020benignware_ood_malware_dir = /MalTutor/dataset/apk
+
