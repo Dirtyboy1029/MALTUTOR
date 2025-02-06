@@ -14,7 +14,7 @@ MalTutor is the implementation of our paper **"Understanding Model Weaknesses: A
 - Docker
 - Additional dependencies listed in `requirements.txt`
 
-### Docker Installation
+### Docker Installation [docker link](https://zenodo.org/records/14027453)
 1. Extract the environment package:
 ```bash
 gzip -d maltutor.tar.gz
